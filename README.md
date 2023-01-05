@@ -3,7 +3,7 @@
 ### sch
 ![image](https://github.com/tim108108/esp32/blob/master/3.Docs/esp32_sch.png)
 ### PCB Layout
-![image](https://github.com/tim108108/esp32/blob/master/3.Docs/esp32_pcb.jpg)
+![image](https://github.com/tim108108/esp32/blob/master/3.Docs/eps32_pcb.jpg)
 ### 3D
 ![image](https://github.com/tim108108/esp32/blob/master/3.Docs/esp32_3d.jpg)
 ### 實際
