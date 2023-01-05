@@ -5,3 +5,5 @@
 ## 實際
 ## 接下來為韌體燒錄，ESP32-S2可以使用原廠的ESP-IDF進行開發，Arduino透過安裝套件進行開發，不過本次使用[circuitpython](https://circuitpython.org/board/espressif_saola_1_wroom/)作為開發平台，因為ESP32-S2原生支援USB，可以透過一根Type-C進行編譯與除錯。
 ## 使用Saola 1 w/WROOM的韌體，跟circuitpython網站的步驟就可以將韌體燒入至晶片，而且不用另外裝韌體燒錄程式，直接用說明步驟裡面的網站就可以直接燒錄。
+[debug1](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython)  
+[debug2](https://embedded-things.blogspot.com/2022/03/fix-runtimeerror-none-data-for-in.html)
